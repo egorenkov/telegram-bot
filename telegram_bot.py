@@ -3,7 +3,7 @@ import text
 import sqlite3
 import os 
 
-bot = telebot.TeleBot('7669963697:AAHN_GKoByEfFdMUxul3nWfA-k8MCb5dpdc')
+bot = telebot.TeleBot('token')
 
 """
 - Как проходят занятия
